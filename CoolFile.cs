@@ -6,6 +6,8 @@ uprava 3
 
 super uprava 4
 
-Added feature X
+Added feature XXX
 
 Feature X - enhancement
+
+Another fetureX changes
